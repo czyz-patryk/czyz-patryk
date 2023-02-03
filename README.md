@@ -5,7 +5,6 @@ I have a bachelor's degree of Mathematics.
 
 I started learning programming in April 2022. My first choice was Python, then I tried some JavaScript and after that I have learned basics of Java. 
 If I had to chose my favourite, I would choose Python.
-I want to write few programs based on my own ideas and share them with you. 
 
 In the nearest future I'm going to learn something about Data Science, because data, tables and number are awesome.
 
