@@ -1,6 +1,6 @@
 Hello,
 
-I'm Patryk Czyż from Poland.
+I'm Patryk from Poland.
 I have a bachelor's degree of Mathematics.
 
 I started learning programming in April 2022. My first choice was Python, then I tried some JavaScript and after that I have learned basics of Java. 
